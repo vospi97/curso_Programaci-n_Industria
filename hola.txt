@@ -1,1 +1,2 @@
-Hola Git, soy Valentín
+Hola Git, soy Valentín, soy estudiante de estadístca de la UdeA
+en el curso de programación para la industria
